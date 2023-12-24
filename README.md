@@ -12,7 +12,6 @@ In the future, I might incorporate some additional features or change some depre
 https://goqr.me/api/
 
 ## Technologies Used
-
-- JavaFX
+- JavaFX 21.0.1 (https://gluonhq.com/products/javafx/)
 - Maven
-- Scene Builder
+- Scene Builder 21.0.0 (https://gluonhq.com/products/scene-builder/)
