@@ -42,4 +42,9 @@ public class AppController
     private void onButtonClick()
     {
     }
+
+    public String getUserInput()
+    {
+        return textField.getText();
+    }
 }
