@@ -17,7 +17,7 @@ public class MainAppDriver extends Application
         FXMLLoader fxmlLoader = new FXMLLoader(MainAppDriver.class.getResource("view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 600, 400);
 
-        URL applicationIconURL = MainAppDriver.class.getResource("/com/github/zerrakoth/qrcodegenerator/icon.png");
+        URL applicationIconURL = MainAppDriver.class.getResource("/com/github/zerrakoth/qrcodegenerator/appIcon.png");
         Image applicationIcon = new Image(applicationIconURL.toString());
 
         stage.setTitle("QR Code Generator");
