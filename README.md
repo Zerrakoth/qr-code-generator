@@ -10,3 +10,9 @@ In the future, I might incorporate some additional features or change some depre
 
 ## API Used
 https://goqr.me/api/
+
+## Technologies Used
+
+- JavaFX
+- Maven
+- Scene Builder
